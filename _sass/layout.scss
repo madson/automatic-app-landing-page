@@ -4,9 +4,7 @@
 		linear-gradient(
 		rgba($image-overlay-color, $image-overlay-transparency), 
 		rgba($image-overlay-color, $image-overlay-transparency)
-		   ),
-		
-		url($header-image);
+		   );
 
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -501,4 +499,8 @@ footer {
 
 .hidden {
 	display: none;
+}
+
+body {
+	background-color: #fafafa;
 }
