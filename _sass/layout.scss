@@ -89,46 +89,6 @@ header {
 	margin-right: 15px;
 }
 
-
-
-// Navigation Links
-nav {
-	width: 100%;
-	display: flex;
-	justify-content: flex-end;
-	align-items: center;
-	height: 115px;
-}
-
-nav > ul {
-	color: #fff;
-	display: flex;
-	list-style-type: none;
-}
-
-nav > ul li {
-	padding-left: 50px;
-	text-align: right;
-}
-
-nav > ul li:first-child {
-	padding-left: 0px;
-}
-
-nav > ul li a:link,
-nav > ul li a:visited {
-	text-decoration: none;
-	color: rgba($header-title-color, 0.6);
-}
-
-nav > ul li a:hover,
-nav > ul li a:active {
-	text-decoration: none;
-	color: rgba($header-title-color, 1);
-}
-
-
-
 // App Title, Price, Description and Links
 
 .appInfo {
