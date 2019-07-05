@@ -18,30 +18,5 @@
                 });
             </script>
         {% endunless %}
-        {% if file.extname == ".mov" or file.extname == ".mp4" %}
-            <script>
-                $(function() {
-                    $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
-                    console.log("{{ file.path }}");
-                });
-            </script>
-        {% elsif file.extname == ".ogg" %}
-            <script>
-                $(function() {
-                    $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
-                    console.log("{{ file.path }}");
-                });
-            </script>
-        {% elsif file.extname == ".webm" %}
-        <script>
-            $(function() {
-                $(".videoContainer").removeClass("hidden");
-                $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
-                console.log("{{ file.path }}");
-            });
-        </script>
-        {% endif %}
     {% endif %}
 {% endfor %}
