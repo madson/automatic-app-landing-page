@@ -36,19 +36,19 @@ features                                  :
 
   - title                                 : Teamwork Makes the Dream Work
     description                           : Bumper allows  brands to leverage a Driver’s style and personality, with creative, sleek, cool ads.  We are all about perfect matches between our drivers and our companies.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : users
     
   - title                                 : Innovative Ads
     description                           : We not only use smaller, eye-catching ads located at different angles on different areas of a driver’s car (we can make big ads too!), but we use insanely creative marketing techniques.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : ad
 
   - title                                 : Effective Ads Means Incentivized Drivers
     description                           : Of course we can track a driver’s miles… so what… doesn’t mean an ad is effective. We think two things are important - Where a car is parked, and who is the driver and what is their network
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : smile-wink
 
   - title                                 : Pricing
     description                           : This whole thing only works if we are all making some $$ right.  Driver’s want to make some cash monthly, and have the potential for bonuses if they can prove their worth.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : dollar-sign
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
