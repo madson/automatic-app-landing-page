@@ -3,7 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "2VLKK2P623.com.Bumper1"
+                "appID": "2VLKK2P623.com.Bumper1",
+                "paths": [ "/app/*" ]
             }
         ]
     }
