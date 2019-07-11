@@ -7,5 +7,8 @@
                 "paths": [ "/app/*" ]
             }
         ]
+    },
+    "webcredentials": {
+       "apps": [ "2VLKK2P623.com.Bumper1" ]
     }
 }
