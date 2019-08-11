@@ -9,7 +9,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/512x512bb.jpg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/512x512bb.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Bumper - Car Advertising                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Bumper connects brands with personal brand reps. Brands can leverage people’s real-life networks.
@@ -69,14 +69,14 @@ topbar_color                              : "#fff"
 topbar_transparency                       : 1
 topbar_title_color                        : "#262626"
 
-cover_overlay_color                       : "#128cd9"
+cover_overlay_color                       : "#6C5C96"
 cover_overlay_transparency                : 0.9
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#efefef"
 
-link_color                                : "#128cd9"
+link_color                                : "#6C5C96"
 
 app_title_color                           : "#fafafa"
 app_price_color                           : "#fafafa"
@@ -85,7 +85,7 @@ app_description_color                     : "#fafafa"
 feature_title_color                       : "#262626"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#128cd9"
+feature_icons_foreground_color            : "#6C5C96"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
