@@ -1,5 +1,5 @@
 #page title
-page_title                                : Bumper - Car Advertising                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Bumper - The QR Code Network                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1448139087                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
